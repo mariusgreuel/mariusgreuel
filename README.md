@@ -34,16 +34,9 @@ Here is a selection of my favorite GitHub repos that might be useful to you:
 - [MFS94 - 3D R/C helicopter simulator for MS-DOS](https://github.com/mariusgreuel/mfs94)
 - [MFS96 - 3D R/C helicopter simulator for MS-DOS](https://github.com/mariusgreuel/mfs96)
 - [MFS98 - 3D R/C helicopter simulator for Windows 95](https://github.com/mariusgreuel/mfs98)
-
-## Multiplex PROFI mc 3030
-
-- [Pinout for Multiplex PROFI mc 3030 connectors](https://github.com/mariusgreuel/mpx-mc3030-pinout)
-- [Tool to manage memory of a Multiplex PROFI mc 3030](https://github.com/mariusgreuel/mpx-mc3030)
-- [Tool to flash various Multiplex transmitter and receiver modules](https://github.com/mariusgreuel/mpx-flash)
-- [Multiplex PPM Format Specification](https://github.com/mariusgreuel/mpx-ppm-spec)
-- [Multiplex PCM Format Specification](https://github.com/mariusgreuel/mpx-pcm-spec)
-- [Multiplex M-Link Protocol Specification](https://github.com/mariusgreuel/mpx-m-link-spec)
-- [Multiplex M-LINK transmitter software](https://github.com/mariusgreuel/mpx-m-link)
+- [Multiplex PROFI mc 3030 Tools](https://github.com/mariusgreuel/mpx-mc3030)
+- [Multiplex transmitter/receiver flash tool](https://github.com/mariusgreuel/mpx-flash)
+- [Multiplex M-LINK software](https://github.com/mariusgreuel/mpx-m-link)
 
 ## Misc
 
