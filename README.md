@@ -40,4 +40,5 @@ Here is a selection of my favorite GitHub repos that might be useful to you:
 
 ## Misc
 
+- [WinPX HTTP Proxy Server for Windows](https://github.com/mariusgreuel/winpx)
 - [.NET bindings for the tree-sitter parsing library](https://github.com/mariusgreuel/tree-sitter-dotnet-bindings)
